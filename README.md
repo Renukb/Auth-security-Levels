@@ -1,6 +1,6 @@
 # Auth-security-Levels
 
-This project shows the different methods of authentication methods.
+This project shows the different authentication methods for web applications.
 
 The most secure and best way is the google Oauth2.0.
 
